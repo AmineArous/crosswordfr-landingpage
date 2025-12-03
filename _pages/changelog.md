@@ -1,65 +1,24 @@
----
-layout: page
-title: What's New
-include_in_header: true
----
-
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
-<br>
-
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
-
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-________
-<br>
-
-### `Initial Release`
+### `Lancement Initial`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+**Décembre 2025**
 
-<br>
+Bienvenue dans Mots Croisés FR ! Plongez dans l'univers passionnant des mots croisés thématiques entièrement en français.
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+#### Fonctionnalités
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- 🎬 **8 Thèmes Captivants** - Cinéma, Football, Musique, Littérature, Géographie, Animaux, Personnalités et Culture Générale
+- 🎯 **3 Niveaux de Difficulté** - Débutant, Intermédiaire et Expert pour tous les joueurs
+- 💡 **Système d'Indices** - Débloquez des lettres ou des mots entiers quand vous êtes bloqué
+- ♾️ **Grilles Illimitées** - Des milliers de grilles générées pour un plaisir sans fin
+- 🇫🇷 **100% en Français** - Contenu entièrement francophone avec définitions soignées
+- 📴 **Mode Hors-Ligne** - Jouez partout, même sans connexion internet
+- 🎨 **Thèmes Visuels** - Personnalisez l'apparence de vos grilles
+- 🏆 **Suivi de Progression** - Gardez une trace de vos accomplissements
 
-<br>
+#### Notes
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+Ceci est la première version de Mots Croisés FR. Nous travaillons continuellement à améliorer l'application et ajouter de nouveaux contenus. Vos retours sont précieux !
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+---
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
-<br>
+Contactez-nous : sixtyedge@gmail.com
