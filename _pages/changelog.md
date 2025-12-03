@@ -1,4 +1,3 @@
-### `Lancement Initial`
 # **Version 1.0**
 **Décembre 2025**
 
