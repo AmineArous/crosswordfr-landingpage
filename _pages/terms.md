@@ -5,144 +5,136 @@ include_in_header: false
 ---
 
 **Last updated**  
-November 26, 2025
+Décembre 2025
 
-# Terms of Use
+# Conditions d'Utilisation
 
-Welcome to Rituo. By downloading or using the app, you agree to these terms.
-
-<br>
-
-## 1.0 Acceptance of Terms
-
-By accessing and using Rituo ("the App"), you accept and agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
+Bienvenue sur Mots Croisés FR. En téléchargeant ou en utilisant l'application, vous acceptez ces conditions.
 
 <br>
 
-## 2.0 Description of Service
+## 1.0 Acceptation des Conditions
 
-Rituo is a habit tracking and productivity application that helps you build positive routines, track your progress, and achieve your goals. The App uses:
-- Local device storage and optional iCloud sync for your data
-- On-device AI (Apple Intelligence) for personalized coaching
-- Apple Watch integration for on-the-go tracking
-- Live Activities for real-time progress monitoring
-- Local notifications for smart reminders
+En accédant et en utilisant Mots Croisés FR ("l'Application"), vous acceptez d'être lié par ces Conditions d'Utilisation. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'Application.
 
 <br>
 
-## 3.0 User Account and Data
+## 2.0 Description du Service
 
-### 3.1 No Account Required
-Rituo does not require you to create an account. All data is stored locally on your device and optionally in your personal iCloud account.
-
-### 3.2 Your Responsibility
-You are responsible for:
-- Maintaining the security of your device
-- The accuracy of data you enter into the App
-- Any personal decisions you make based on App data
+Mots Croisés FR est une application de jeu de mots croisés en français qui vous permet de résoudre des grilles thématiques et d'enrichir votre vocabulaire. L'Application utilise :
+- Le stockage local sur votre appareil (Core Data) pour sauvegarder votre progression
+- Google AdMob pour afficher des publicités
+- Des publicités récompensées pour obtenir des indices gratuits
 
 <br>
 
-## 4.0 AI Features Disclaimer
+## 3.0 Compte Utilisateur et Données
 
-### 4.1 AI Coach (Zoe)
-Rituo includes an AI-powered coach called Zoe that provides suggestions and motivation. This feature uses Apple's on-device Foundation Models.
+### 3.1 Aucun Compte Requis
+Mots Croisés FR ne nécessite pas la création d'un compte. Toutes les données sont stockées localement sur votre appareil.
 
-### 4.2 Not Professional Advice
-AI suggestions are for informational and motivational purposes only. **The App does not provide professional, medical, psychological, or therapeutic advice.**
-
-### 4.3 Use Your Judgment
-AI-generated content may not always be perfectly accurate or suitable for your specific situation. Always use your own judgment when following suggestions.
-
-<br>
-
-## 5.0 Premium Subscription
-
-### 5.1 Subscription Terms
-Rituo offers optional Premium features through auto-renewable subscriptions and a one-time lifetime purchase option.
-
-### 5.2 Billing
-- Subscriptions are billed through your Apple ID account
-- Payment is charged at confirmation of purchase
-- Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period
-- Your account will be charged for renewal within 24 hours prior to the end of the current period
-
-### 5.3 Managing Subscriptions
-You can manage and cancel subscriptions in your Apple ID Account Settings. Cancellation takes effect at the end of the current billing period.
-
-### 5.4 Free Trial
-If a free trial is offered, any unused portion will be forfeited when you purchase a subscription.
-
-### 5.5 Refunds
-All purchases are handled by Apple. For refund requests, please contact Apple Support directly.
+### 3.2 Votre Responsabilité
+Vous êtes responsable de :
+- La sécurité de votre appareil
+- Toute décision que vous prenez en utilisant l'Application
 
 <br>
 
-## 6.0 Intellectual Property
+## 4.0 Publicités
 
-### 6.1 Ownership
-Rituo and its original content, features, and functionality are owned by Amine Arous and are protected by international copyright, trademark, and other intellectual property laws.
+### 4.1 Publicités Affichées
+L'Application affiche des publicités via Google AdMob pour financer son développement gratuit.
 
-### 6.2 Your Data
-You retain all rights to the data you create and store in Rituo. We do not claim ownership of your personal habit data.
+### 4.2 Publicités Récompensées
+Vous pouvez volontairement regarder des publicités récompensées pour obtenir des indices gratuits dans le jeu.
 
-<br>
-
-## 7.0 Prohibited Uses
-
-You agree not to:
-- Use the App for any illegal purpose
-- Attempt to reverse engineer, decompile, or disassemble the App
-- Use the App to harm, harass, or violate the rights of others
-- Interfere with or disrupt the App's functionality
-- Attempt to gain unauthorized access to any portion of the App
+### 4.3 Collecte de Données Publicitaires
+Google AdMob peut collecter certaines données à des fins publicitaires conformément à la politique de confidentialité de Google.
 
 <br>
 
-## 8.0 Third-Party Services
+## 5.0 Achats Intégrés
 
-### 8.1 Apple Services
-The App integrates with Apple's services (CloudKit, HealthKit, App Store, Foundation Models, Watch Connectivity). Your use of these services is subject to Apple's terms and conditions.
+### 5.1 Indices
+Mots Croisés FR propose l'achat optionnel d'indices pour vous aider à résoudre les grilles.
 
-<br>
+### 5.2 Facturation
+- Les achats sont facturés via votre compte Apple ID
+- Le paiement est prélevé à la confirmation de l'achat
 
-## 9.0 Limitation of Liability
-
-**TO THE MAXIMUM EXTENT PERMITTED BY LAW:**
-
-Rituo is provided "AS IS" and "AS AVAILABLE" without warranties of any kind. We do not warrant that:
-- The App will be uninterrupted or error-free
-- Defects will be corrected
-- The App is free of viruses or harmful components
-
-We shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use or inability to use the App.
+### 5.3 Remboursements
+Tous les achats sont gérés par Apple. Pour les demandes de remboursement, veuillez contacter directement le support Apple.
 
 <br>
 
-## 10.0 Changes to the App
+## 6.0 Propriété Intellectuelle
 
-We reserve the right to:
-- Modify or discontinue the App or any features at any time
-- Update these Terms of Use
-- Change Premium subscription pricing (with notice to existing subscribers)
+### 6.1 Propriété
+Mots Croisés FR et son contenu original, ses fonctionnalités et son design sont la propriété d'Amine Arous et sont protégés par les lois internationales sur le droit d'auteur et la propriété intellectuelle.
 
-<br>
-
-## 11.0 Termination
-
-We may terminate or suspend your access to the App immediately, without prior notice, if you breach these Terms.
+### 6.2 Vos Données
+Vous conservez tous les droits sur votre progression de jeu stockée dans Mots Croisés FR.
 
 <br>
 
-## 12.0 Governing Law
+## 7.0 Utilisations Interdites
 
-These Terms shall be governed by the laws of France, without regard to its conflict of law provisions.
+Vous acceptez de ne pas :
+- Utiliser l'Application à des fins illégales
+- Tenter de désassembler, décompiler ou faire de l'ingénierie inverse sur l'Application
+- Utiliser l'Application pour nuire ou harceler autrui
+- Interférer avec le fonctionnement de l'Application
+- Tenter d'accéder de manière non autorisée à toute partie de l'Application
 
 <br>
 
-## 13.0 Contact Information
+## 8.0 Services Tiers
 
-For questions about these Terms of Use, contact us at:
+### 8.1 Services Apple
+L'Application s'intègre aux services Apple (App Store). Votre utilisation de ces services est soumise aux conditions générales d'Apple.
+
+### 8.2 Google AdMob
+L'Application utilise Google AdMob pour la publicité. Votre interaction avec les publicités est soumise aux conditions de Google.
+
+<br>
+
+## 9.0 Limitation de Responsabilité
+
+**DANS LA MESURE MAXIMALE PERMISE PAR LA LOI :**
+
+Mots Croisés FR est fourni "TEL QUEL" et "SELON DISPONIBILITÉ" sans garantie d'aucune sorte. Nous ne garantissons pas que :
+- L'Application sera ininterrompue ou sans erreur
+- Les défauts seront corrigés
+- L'Application est exempte de virus ou de composants nuisibles
+
+Nous ne serons pas responsables de tout dommage indirect, accessoire, spécial, consécutif ou punitif résultant de votre utilisation ou de votre incapacité à utiliser l'Application.
+
+<br>
+
+## 10.0 Modifications de l'Application
+
+Nous nous réservons le droit de :
+- Modifier ou interrompre l'Application ou ses fonctionnalités à tout moment
+- Mettre à jour ces Conditions d'Utilisation
+- Modifier les prix des achats intégrés
+
+<br>
+
+## 11.0 Résiliation
+
+Nous pouvons résilier ou suspendre votre accès à l'Application immédiatement, sans préavis, si vous enfreignez ces Conditions.
+
+<br>
+
+## 12.0 Droit Applicable
+
+Ces Conditions sont régies par les lois de la France, sans égard à ses dispositions relatives aux conflits de lois.
+
+<br>
+
+## 13.0 Contact
+
+Pour toute question concernant ces Conditions d'Utilisation, contactez-nous à :
 
 **sixtyedge@gmail.com**
 
